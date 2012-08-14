@@ -1,15 +1,19 @@
-# ShizudevBot�ɂ���
+# ShizudevBotについて
 
-���̃v���W�F�N�g�́A2012�N9��1���ɍs����É�Developers�׋���̏h��v���W�F�N�g�ł��B
+このプロジェクトは、2012年9月1日に行われる静岡Developers勉強会の宿題プロジェクトです。
 
-##�ۑ���e
+##課題内容
 
-�ۑ�̖ړI�͎��ۂ�Fork���āA�C�����āAPullRequest����Ƃ�����A�̎菇�����ۂɎ�𓮂����Ă���Ă݂āA�\�[�V�����R�[�f�B���O��̌����Ă݂�ƌ������Ƃł��B
+課題の目的は実際にForkして、修正して、PullRequestするという一連の手順を実際に手を動かしてやってみて、ソーシャルコーディングを体験してみると言うことです。
 
-���̃v���W�F�N�g�������g��GitHub��Fork���āAMessage.txt��TwitterBot�ɘb�����������e��ǋL���āA������Pull Request���Ă��������B
+このプロジェクトをご自身のGitHubにForkして、Message.txtにTwitterBotに話させたい内容を追記して、私宛にPull Requestしてください。
 
-###���|�W�g�����t�H�[�N���āA�v�����N�G�X�g�𑗂�܂ł̎菇
+###修正対象
+ShizudevGithubHW/ShizudevBotTest/Message.txt
+ファイルの形式：BOM無しUTF-8テキストファイル、改行はLF。
 
-https://help.github.com/articles/fork-a-repo
+修正する内容：1行か、複数行botに呟かせたい内容を追記する。
 
-�������Q�ƁB
+レポジトリをフォークするの手順： https://help.github.com/articles/fork-a-repo
+プルリクエストの手順： https://help.github.com/articles/using-pull-requests
+
