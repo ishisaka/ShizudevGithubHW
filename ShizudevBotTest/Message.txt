@@ -1,0 +1,15 @@
+﻿# メッセージは全部で80文字以下に
+bot: 9/8は静岡ITPro勉強会です。 http://atnd.org/event/ShizuokaITPro9 #shizudev
+bot: 9/29は静岡Azure勉強会です。 #shizudev #azurejp
+bot: バルス！
+bot: デプローイ！
+bot: Azureの薄い本とかないんですかね?
+bot: GitHubは世界標準 https://github.com/
+bot: OctoCatカワイイ！！ http://octodex.github.com/
+bot: Fork You ! http://bit.ly/MmnScn
+bot: Be Social ! http://bit.ly/OW9vf1
+bot: Learn, Practice, Share.
+bot: Code is about the people.
+bot: ソーシャルコーディング三部作その1 http://slidesha.re/Nwt8bj
+bot: ソーシャルコーディング三部作その2 http://bit.ly/TBTA5U
+bot: ソーシャルコーディング三部作その3 http://bit.ly/NgxUJi
