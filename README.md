@@ -15,5 +15,6 @@ ShizudevGithubHW/ShizudevBotTest/Message.txt
 修正する内容：1行か、複数行botに呟かせたい内容を追記する。
 
 レポジトリをフォークするの手順： https://help.github.com/articles/fork-a-repo
+
 プルリクエストの手順： https://help.github.com/articles/using-pull-requests
 
