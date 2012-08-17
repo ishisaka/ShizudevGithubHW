@@ -1,4 +1,4 @@
-﻿# メッセージは全部で80文字以下に
+# メッセージは全部で80文字以下に
 bot: 9/8は静岡ITPro勉強会です。 http://atnd.org/event/ShizuokaITPro9 #shizudev
 bot: 9/29は静岡Azure勉強会です。 #shizudev #azurejp
 bot: バルス！
@@ -13,3 +13,4 @@ bot: Code is about the people.
 bot: ソーシャルコーディング三部作その1 http://slidesha.re/Nwt8bj
 bot: ソーシャルコーディング三部作その2 http://bit.ly/TBTA5U
 bot: ソーシャルコーディング三部作その3 http://bit.ly/NgxUJi
+bot: 9/8はJAZUG二周年記念ハンズオン大会！ http://atnd.org/event/jazug2012
