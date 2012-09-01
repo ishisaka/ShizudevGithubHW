@@ -18,3 +18,9 @@ ShizudevGithubHW/ShizudevBotTest/Message.txt
 
 プルリクエストの手順： https://help.github.com/articles/using-pull-requests
 
+##講習スライド
+
+講習のスライド： http://www.slideshare.net/ishisaka/shizudev-git-hub
+
+
+
