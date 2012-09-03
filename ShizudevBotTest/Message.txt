@@ -17,3 +17,4 @@ bot: 9/8はJAZUG二周年記念ハンズオン大会！ http://atnd.org/event/ja
 bot: 俺達のコーディングは始まったばかりだ！！
 bot: GitHubはギットハブ
 bot: Have a #A君 Have a GitHub!
+bot: shizuru (Shizudevつくる会) https://github.com/shizuru もよろしく
