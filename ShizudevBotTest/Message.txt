@@ -14,4 +14,8 @@ bot: ソーシャルコーディング三部作その1 http://slidesha.re/Nwt8bj
 bot: ソーシャルコーディング三部作その2 http://bit.ly/TBTA5U
 bot: ソーシャルコーディング三部作その3 http://bit.ly/NgxUJi
 bot: 9/8はJAZUG二周年記念ハンズオン大会！ http://atnd.org/event/jazug2012
+bot: 俺達のコーディングは始まったばかりだ！！
+bot: GitHubはギットハブ
+bot: Have a #A君 Have a GitHub!
+bot: shizuru (Shizudevつくる会) https://github.com/shizuru もよろしく
 bot: フォークといえば、村田、野茂、杉下
