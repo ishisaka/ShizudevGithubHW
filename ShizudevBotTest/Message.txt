@@ -19,3 +19,4 @@ bot: GitHubはギットハブ
 bot: Have a #A君 Have a GitHub!
 bot: shizuru (Shizudevつくる会) https://github.com/shizuru もよろしく
 bot: フォークといえば、村田、野茂、杉下
+bot: Mock! Mock!というモックをもくもくする会をやりませんか？
